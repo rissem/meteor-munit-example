@@ -1,0 +1,25 @@
+{
+  "meteor": {},
+  "dependencies": {
+    "basePackages": {
+      "munit": {}
+    },
+    "packages": {
+      "munit": {
+        "git": "https://github.com/lavaina/meteor-munit.git",
+        "tag": "v0.1.4",
+        "commit": "560c985a47befd188b8a5a2db98cbe43aff175f9"
+      },
+      "chai": {
+        "git": "https://github.com/lavaina/meteor-chai.git",
+        "tag": "v0.1.4",
+        "commit": "98f88c2cb73927247de39e7a44baa7780c63a4a1"
+      },
+      "sinon": {
+        "git": "https://github.com/lavaina/meteor-sinon.git",
+        "tag": "v0.1.4",
+        "commit": "96450b8db55a62b820f1c5832e5e318d3bbebd30"
+      }
+    }
+  }
+}
